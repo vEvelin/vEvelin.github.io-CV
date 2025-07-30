@@ -1,2 +1,2 @@
 # CV
-Guias para realizar alguna actividad en GitHub u otras plataformas
+ https://vevelin.github.io/vEvelin.github.io-CV/
